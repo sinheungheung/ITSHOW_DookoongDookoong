@@ -18,7 +18,7 @@
 <img width="1273" alt="result1" src="https://user-images.githubusercontent.com/80873447/175967462-3c3b5187-088a-48fa-8741-7d4f394fda5c.png">
 
 #### 자세한 결과창🧑🏻‍💻❤️
-##### QR 코드를 인식하여링크를 통해 확인할 수 있습니다
+##### QR 코드를 인식하여 링크를 통해 확인할 수 있습니다
 ![result_esfp](https://user-images.githubusercontent.com/80873447/175970145-22ff157c-4f90-4f6f-b8cd-36ff485b7c84.png)
 
 
