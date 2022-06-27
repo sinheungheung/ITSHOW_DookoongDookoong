@@ -3,7 +3,7 @@
 #### 미림 전공 선생님들과 나의 mbti 궁합 알아보기
 
 ##### 시작하기
-<img width="1267" alt="main" src="https://user-images.githubusercontent.com/80873447/175967170-6b465433-6303-4e45-8252-ebbae84ae39c.png>
+<img width="1267" alt="main" src="https://user-images.githubusercontent.com/80873447/175967170-6b465433-6303-4e45-8252-ebbae84ae39c.png">
 
 ##### 더보기
 ![explain](https://user-images.githubusercontent.com/80873447/175967634-03d0753d-a848-4c22-b8e1-bf97d914e261.png)
