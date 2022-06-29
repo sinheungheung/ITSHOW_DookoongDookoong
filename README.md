@@ -2,6 +2,10 @@
 ### <2022.06.23~2022.06.25 IT SHOW> 
 #### 미림 전공 선생님들과 나의 mbti 궁합 알아보기
 
+#### "당신과 비슷한 유형의 선생님은 누구일까요?!"
+#### 지금 바로 테스트하러 가보세요!
+https://doogoong.emirim.kr/
+
 #### 👉🏻시작하기👈🏻
 <img width="1267" alt="main" src="https://user-images.githubusercontent.com/80873447/175967170-6b465433-6303-4e45-8252-ebbae84ae39c.png">
 
