@@ -2,7 +2,7 @@
 ### <2022.06.23~2022.06.25 IT SHOW> 
 ### <div align= center>✨미림 전공 선생님들과 나의 mbti 궁합 알아보기✨</div>
 
-### <div align= center>-----------------------🎀--------------------------</div>
+### <div align= center>------------------------🎀-------------------------</div>
 ### <div align= center>"당신과 비슷한 유형의 선생님은 누구일까요?!"<br/>
 ### <div align= center>"지금 바로 테스트하러 가보세요!"<br/>
 ### <div align= center>https://doogoong.emirim.kr/</div>
