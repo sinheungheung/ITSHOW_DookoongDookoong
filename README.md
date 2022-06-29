@@ -8,7 +8,7 @@
 ### <div align= center>"당신과 비슷한 유형의 선생님은 누구일까요?!"<br/>
 ### <div align= center>"지금 바로 테스트하러 가보세요!"<br/>
 ### <div align= center>https://doogoong.emirim.kr/</div>
-### <div align= center>---------------------------------------------------</div>
+### <div align= center>----------------------------------------------------</div>
    
 ### 👉🏻시작하기👈🏻
 <img width="1267" alt="main" src="https://user-images.githubusercontent.com/80873447/175967170-6b465433-6303-4e45-8252-ebbae84ae39c.png">
